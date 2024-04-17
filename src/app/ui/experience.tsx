@@ -41,7 +41,7 @@ export const Experience = () => {
                 {job.title}
               </dd>
               <dt className="sr-only">Description</dt>
-              <dd className="text-xs text-zinc-400 dark:text-zinc-400 mt-2">
+              <dd className="w-full text-xs text-zinc-400 dark:text-zinc-400 mt-2">
                 {job.description}
               </dd>
               <dt className="sr-only">Tech Stack</dt>
