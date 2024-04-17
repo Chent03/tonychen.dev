@@ -30,7 +30,7 @@ export const Terminal = () => {
             working on the front end and creating a wonderful UI/UX experience.
             The primary stacks that I use are Typescript, React, Next.JS, and
             Node. Aside from coding, I love watching basketball, tinkering with
-            my fantasy lineup, and trying to create the perfect parlay.
+            my NBA fantasy lineup, and trying to create the perfect parlay.
           </p>
           <p className="pl-1 pb-4 mb-1 mt-3"> Let&apos;s connect!</p>
           <div className="flex gap-2">
